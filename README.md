@@ -1,0 +1,1 @@
+# magento-facebook-pixel-.gitignore
